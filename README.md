@@ -1,4 +1,4 @@
-# Apple-SwiftPackage-KochavaNetworking-XCFramework
+# KochavaNetworking - XCFramework - Cocoapods
 
 [![Cocoapods](https://github.com/ubook-editora/ub-kochava-network/actions/workflows/test.yml/badge.svg)](https://github.com/ubook-editora/ub-kochava-network/actions/workflows/test.yml)
 
